@@ -9,7 +9,7 @@
 <p align="center">
 <a href="https://github.com/amx711/EliteWeapon/archive/refs/heads/main.zip">Fast Download</a> ㅤ•ㅤ
 <a href="https://discord.gg/sPuxqM8J3j">EliteCode</a> ㅤ•ㅤ
-<a href="https://nodejs.org/">NodeJs</a>
+<a href="https://fivem.net/">FiveM</a>
 </p>
 
 ### Preview
