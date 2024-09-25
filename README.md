@@ -12,6 +12,9 @@
 <a href="https://nodejs.org/">NodeJs</a>
 </p>
 
+### Preview
+<img src="https://cdn.discordapp.com/attachments/962772471914840195/1288458579589992448/image.png?ex=66f5420f&is=66f3f08f&hm=9c5ec1ff6a88846aeb4305dc5cbbfbcbd524d36a9936fa01e37c6018e94e9092&" alt="EliteCode">
+
 
 ### Important:
 - [x] - **OpenSource Script**
